@@ -1,5 +1,7 @@
 # Laravel and Vuejs with CRUD operation
 
+YouTube=> https://youtu.be/BnGmywZp10c
+
 <img src="public/images/blog.png">
 
 <img src="public/images/table.png">
